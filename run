@@ -1,0 +1,7 @@
+Java RMI
+javac *.java
+rmiregistry 5001
+
+java ServerName
+
+java Client
